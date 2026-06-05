@@ -4,6 +4,7 @@
 - Họ và tên: Phan Nguyễn Công Trí
 - Đề tài: Hệ thống phân loại cảm xúc (Emotion Classifier) sử dụng vi điều khiển (ESP32-S3 + OV3660 + Edge Impulse)
 - Link model Edge Impulse: https://studio.edgeimpulse.com/studio/1019828
+## 2. Cấu trúc thư mục
 - `src/emotion_classifier/`: Chứa file mã nguồn chính (`emotion_classifier.ino`) viết cho nền tảng Arduino.
 
 ## 3. Yêu cầu hệ thống (Dependencies)
